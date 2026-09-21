@@ -1,0 +1,76 @@
+{
+  "name": "Nivel 3",
+  "objective": "Derrota a todos los Gremlins",
+  "birds": [
+    "Red",
+    "Speed",
+    "Giant",
+    "Red"
+  ],
+  "max_score": 18500,
+  "blocks": [
+    {
+      "x": 970,
+      "y": 545,
+      "w": 30,
+      "h": 80,
+      "material": "wood"
+    },
+    {
+      "x": 1090,
+      "y": 545,
+      "w": 30,
+      "h": 80,
+      "material": "wood"
+    },
+    {
+      "x": 965,
+      "y": 523,
+      "w": 160,
+      "h": 24,
+      "material": "glass"
+    },
+    {
+      "x": 970,
+      "y": 460,
+      "w": 30,
+      "h": 80,
+      "material": "glass"
+    },
+    {
+      "x": 1090,
+      "y": 460,
+      "w": 30,
+      "h": 80,
+      "material": "glass"
+    },
+    {
+      "x": 965,
+      "y": 438,
+      "w": 160,
+      "h": 24,
+      "material": "stone"
+    },
+    {
+      "x": 800,
+      "y": 585,
+      "w": 130,
+      "h": 35,
+      "material": "wood"
+    },
+    {
+      "x": 820,
+      "y": 545,
+      "w": 45,
+      "h": 40,
+      "material": "glass"
+    }
+  ],
+  "enemies": [
+    {
+      "x": 1045,
+      "y": 445,
+      "hp": 130
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Nivel 2",
+  "objective": "Derrota a todos los Gremlins",
+  "birds": [
+    "Red",
+    "Speed",
+    "Red",
+    "Red"
+  ],
+  "max_score": 15000,
+  "blocks": [
+    {
+      "x": 970,
+      "y": 545,
+      "w": 30,
+      "h": 80,
+      "material": "wood"
+    },
+    {
+      "x": 1090,
+      "y": 545,
+      "w": 30,
+      "h": 80,
+      "material": "wood"
+    },
+    {
+      "x": 965,
+      "y": 523,
+      "w": 160,
+      "h": 24,
+      "material": "glass"
+    },
+    {
+      "x": 800,
+      "y": 585,
+      "w": 130,
+      "h": 35,
+      "material": "wood"
+    },
+    {
+      "x": 820,
+      "y": 545,
+      "w": 45,
+      "h": 40,
+      "material": "glass"
+    }
+  ],
+  "enemies": [
+    {
+      "x": 1045,
+      "y": 480,
+      "hp": 120
+    }
+  ]
+}
